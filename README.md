@@ -3,8 +3,10 @@ A tool to print list of hex codes
 
 ## Usage:
 
+> To print help banner of program
+
 ```
-C:\Python27>python.exe C:\users\suraj\desktop\codes.py help
+C:\Python27>python.exe C:\users\test\desktop\codes.py help
                      ,;L.                     ,;
          .Gt       f#i EW:        ,ft       f#i j.
         j#W:     .E#t  E##;       t#E     .E#t  EW,
