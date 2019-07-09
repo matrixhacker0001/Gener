@@ -1,5 +1,7 @@
 # Gener
-A tool to print list of hex codes
+A tool to print list of hex codes..
+
+** Created By - M4trix_h4ck3r
 
 ## Usage:
 
@@ -84,6 +86,7 @@ Bad char format :
 - 0a,00
 
 ```
+C:\Python27>python.exe C:\users\m4trix\desktop\gener.py \x00,\x0a
                      ,;L.                     ,;
          .Gt       f#i EW:        ,ft       f#i j.
         j#W:     .E#t  E##;       t#E     .E#t  EW,
